@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "openblox-marketplace",
+    "site": "openblox-homepage",
     "public": "build",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "rewrites": [
